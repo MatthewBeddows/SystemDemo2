@@ -1,6 +1,6 @@
-[System] Magnet System
-The Magnet System is the core component of an MRI machine, responsible for generating a stable and homogeneous magnetic field, which is essential for high-resolution MRI imaging. This system typically employs superconducting materials cooled to cryogenic temperatures to achieve the necessary field strength and stability.
+[System] Gradient Coil System
+The Gradient Coil System provides spatial encoding in MRI, generating precise gradient magnetic fields in the X, Y, and Z directions. These fields are critical for slice selection, phase encoding, and frequency encoding during the imaging process.
 
 [Module Address] https://github.com/MatthewBeddows/ModuleDemo3
 
-[Requirements]
+[Requirements] SystemDemo1; 
