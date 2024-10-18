@@ -1,5 +1,5 @@
-[Module Info] Gradient Coil System
-The Gradient Coil System provides spatial encoding in MRI, generating precise gradient magnetic fields in the X, Y, and Z directions. These fields are critical for slice selection, phase encoding, and frequency encoding during the imaging process.
+[Module Name] Gradient Coil System
+[Module Info] The Gradient Coil System provides spatial encoding in MRI, generating precise gradient magnetic fields in the X, Y, and Z directions. These fields are critical for slice selection, phase encoding, and frequency encoding during the imaging process.
 
 [Submodules]
 [Module Address] https://github.com/MatthewBeddows/ModuleDemo3
